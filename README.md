@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sashperso
 - 👀 I’m interested in containerisation, Linux distros, Ansible automation, and DevOps!
-- 🌱 I’m currently learning how to leverage containers through OpenShift
-- 💞️ I’m looking to collaborate on DevOps practices and repositories, and get my hands dirty with RHOCP!
+- 🌱 I’m currently learning how to develop containerised applications through OpenShift and k8s
+- 💞️ I’m looking to collaborate on DevOps practices and repositories - currently working with the Open Practices Library team
 - 📫 If you want to reach me, shoot me an email at spersone@redhat.com :-)
 
 <!---
